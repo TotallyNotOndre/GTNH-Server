@@ -344,8 +344,8 @@ gtnh.quest84.desc=With your brand new alloy smelter you are able to combine two 
 gtnh.quest85.name=§6§lSmelt All the Things Stack-Wise...
 gtnh.quest85.desc=...with this great invention! Upgrade power and coils to smelt absolutely ridiculous amounts of items.
 
-# Quest.86 - §6§lTungstensteel Coil Upgrade
-gtnh.quest86.name=§6§lTungstensteel Coil Upgrade
+# Quest.86 - §6§lTPV Coil Upgrade
+gtnh.quest86.name=§6§lTPV Coil Upgrade
 gtnh.quest86.desc=To process more advanced materials like enderium and niobium-titanium you need more than 3600K. Time to upgrade your EBF... again.
 
 # Quest.87 - §6§lSteel Multiblock Tanks
@@ -354,7 +354,7 @@ gtnh.quest87.desc=Do you want to have tanks that can hold double the amount of t
 
 # Quest.88 - §5§r§5§lWelcome to Tier 1, LV
 gtnh.quest88.name=§5§r§5§lWelcome to Tier 1, LV
-gtnh.quest88.desc=Why, hello there! It seems you've made it into the electrical age. Don't be so quick to throw away your steam machines, you'll probably want to keep using them for a while.%n%nTo make your life easier, you'll want to focus on getting a wiremill and bender first...once you suffer through making all the machine components.%n%nAfter that, the polarizer, assembler, lathe, and chemical reactor+fluid solidifier (for rubber) all help make things cheaper.%n%n§3PS: ULV doesn't exist.
+gtnh.quest88.desc=Why, hello there! It seems you've made it into the electrical age. Don't be so quick to throw away your steam machines, you'll probably want to keep using them for a while.%n%nTo make your life easier, you'll want to focus on getting a wiremill and bender first... once you suffer through making all the machine components.%n%nAfter that, the polarizer, assembler, lathe, and chemical reactor+fluid solidifier (for rubber) all help make things cheaper.%n%n§3PS: ULV doesn't exist.
 
 # Quest.89 - §6§lMV Steam Turbine
 gtnh.quest89.name=§6§lMV Steam Turbine
@@ -1568,29 +1568,29 @@ gtnh.quest390.desc=This bee is pretty overpowered. Use it while you can, I see a
 gtnh.quest391.name=Osmium
 gtnh.quest391.desc=Quite the interesting bee. Maybe integrate it into your osmium processing?
 
-# Quest.392 - §c§l[OUTDATED]§r Activated teleport gem
-gtnh.quest392.name=§c§l[OUTDATED]§r Activated teleport gem
-gtnh.quest392.desc=You are sure that you've just discovered the solution for your containment problem. This gem happily transmits vis on request, while keeping the containment field intact. What a great day!
+# Quest.392 - Co-Processing x16
+gtnh.quest392.name=Co-Processing x16
+gtnh.quest392.desc=For an even more compact crafting CPU.
 
-# Quest.393 - §c§l[OUTDATED]§r You did it! But...
-gtnh.quest393.name=§c§l[OUTDATED]§r You did it! But...
-gtnh.quest393.desc=Now that you are able to contain the activated draconium dust for an infinite amount of time, you where able to assure the energy it releases. The readings are incredible. You have never seen such a power before. The only problem is, the machinery required to keep the dust in this state is too large to use it for crafting.%n%nYou noticed something that might help: The dust reacts to vis, but it needs a lot of it, therefore you require the animation focus. If you could find a catalyst, that you can mix the dust with, you could make the dust react with the vis from its surroundings instead of a direct beam.
+# Quest.393 - Co-Processing x4
+gtnh.quest393.name=Co-Processing x4
+gtnh.quest393.desc=Your crafting CPU is massive and still can't keep up? Don't worry, we have a custom solution for that!
 
-# Quest.394 - §c§l[OUTDATED]§r A catalyst
-gtnh.quest394.name=§c§l[OUTDATED]§r A catalyst
-gtnh.quest394.desc=That's it. This catalyst contains all primal energies in a quite different form, a lot weaker than any node. However, in combination with the draconium dust, it amplifies the vis that's around it, which leads to a permanent activation. It still needs to be contained, but you don't need the direct vis beam any more.%n%nThe result is a compound, which still emits massive amounts of power, but is less destructive. It still attacks the neutronium, but I think if I can find a capsule-like container that has special properties, I could create a portable version of it.
+# Quest.394 - §a§k§r§a§lGraphene
+gtnh.quest394.name=§a§k§r§a§lGraphene
+gtnh.quest394.desc=For IV motors you will need Graphene. Graphene is a material that is just one atom layer thick. It has very favourable electric properties. To create though you will have to make some Graphene you can use a powerful adhesive to pull a single layer of material away from Graphite.%n%nFor this you will need some Advanced Glue. There is no quest yet, so check NEI and come back with some! You will also need some perfect wafers to work on.
 
 # Quest.395 - Dragon Blood
 gtnh.quest395.name=Dragon Blood
 gtnh.quest395.desc=The Dragon Blood Bee is a lot of effort to obtain but quite handy for hypogen in late game.
 
-# Quest.396 - §c§l[OUTDATED]§r The final steps
-gtnh.quest396.name=§c§l[OUTDATED]§r The final steps
-gtnh.quest396.desc=Now that I've found a way to stabilize the draconium dust and keep it safe in a small capsule, I just need to make a small container for it, so I can drain the energy on demand. Neutronium will serve very well, but I need a magic conductor. Thaumium works, but gets way too hot and void metal has a bad conductivity. I need to find a high tier magic metal that is extremly strong and resillient, to a point where mundane materials could never get.
+# Quest.396 - Goals
+gtnh.quest396.name=Goals
+gtnh.quest396.desc=GregTech New Horizons is a long and intricate mod pack with massive amounts of custom content and over 3000 quests to guide you along.%n%nWe would generally recommend you only set yourself relatively small goals from tier to tier and see how far your journey takes you. The ultimate late game goal is to craft a Stargate or two. But the recipe is outrageous and only very few players have ever done so. If you need a big goal for your run, maybe aim for a more realistic achievement. Like going to the moon if this is your first time playing. Or making and automating an Assembling Line if you have never done so. Or crafting the Tier 8 Rocket which is the last rocket and is reached in UHV. 
 
-# Quest.397 - §c§l[OUTDATED]§r Endless evolution
-gtnh.quest397.name=§c§l[OUTDATED]§r Endless evolution
-gtnh.quest397.desc=Using your machine, you can now craft infinite amounts of these cores. And since it would be gruesome to let your golem work just for one single core, you decided to only request cores in a large batch of 16. How nice of you.
+# Quest.397 - Even more challenge needed?
+gtnh.quest397.name=Even more challenge needed?
+gtnh.quest397.desc=You have played through most of the pack a few times already? Maybe you even made a Stargate? Or are you just looking for something a bit different? Don't worry, we have a few options for you:%n%n- Play in Hardcore. Either Minecraft Hardcore, or BetterQuesting Hardcore. The latter is a bit more forgiving. Maybe this seems impossible, but people have indeed reached UEV+ in Minecraft Hardcore. Better be prepared to restart a few times. This is obviously not for everybody.%n%n- Never make a rocket. The so called §ono rocket run§r is pretty well supported by now and you will be able to do almost everything in the pack. Use bees, crops, and blood magic meteors as your main resource production. Be warned though that this challenge is grindy and slow. You might need to collect large amounts of aluminium gravel for example to get your first titanium.%n%n- Skyblock. Yes, really. It is also known as Garden of Grind and it is absolutely brutal. There is no actually supported skyblock version of the pack but some players have figured out the minimal amount of changes needed to make it work. Ask around or search on the offical discord channel for all the details. But don't exect any fun down this road.%n%n- Speedrunning. A few players have designed some basic rules and have started to record speedruns to early game goals like the Coke Oven. Ask around or search on the offical discord channel for all the details. Maybe you just want to watch how they do it.
 
 # Quest.398 - Kill Baba Yaga
 gtnh.quest398.name=Kill Baba Yaga
@@ -4410,7 +4410,7 @@ gtnh.quest1101.desc=Find a sigil in a chest? Get one from the Wither? You've hea
 
 # Quest.1102 - Beacon
 gtnh.quest1102.name=Beacon
-gtnh.quest1102.desc=With your new wand you are able to create a beacon. The beacon recipe is found on the GTNH Thaumcraft Page. Activate it in your base to gain various positive effects.
+gtnh.quest1102.desc=With your ascension to adept thaumaturge you are ready to fusion craft beacons. The beacon recipe is found on the GTNH Thaumcraft Page. Activate it in your base to gain various positive effects.
 
 # Quest.1103 - Cursed Earth
 gtnh.quest1103.name=Cursed Earth
@@ -4506,7 +4506,7 @@ gtnh.quest1125.desc=Are your upgraded cobblestone or dirt barrels full again? No
 
 # Quest.1126 - §3§lAlumite
 gtnh.quest1126.name=§3§lAlumite
-gtnh.quest1126.desc=It's upgrade time again. You can make alumite like modpack Moron by mixing obsidian, steel and alumin(i)um in the smeltery, or you can be a GregTech hero and search NEI for an alternate recipe using dusts. Alumite pickaxes are able to mine ardite in the Nether.%n%nLeave the rest of your Alumite as liquid in your smeltery, you'll want it to make the Tool Forge. You need 16 ingots in the smeltery to make 2 Large Plates.
+gtnh.quest1126.desc=It's upgrade time again. You could in principle make alumite by mixing obsidian, steel and aluminium in the smeltery. But to get a much better yield, you can show you are a GregTech hero and search NEI for an alternate recipe using dusts. Alumite pickaxes are able to mine ardite in the Nether.%n%nLeave the rest of your Alumite as liquid in your smeltery, you'll want it to make the Tool Forge. You need 16 ingots in the smeltery to make 2 Large Plates.
 
 # Quest.1127 - §3§lReinforced X? Unbreakable
 gtnh.quest1127.name=§3§lReinforced X? Unbreakable
@@ -4598,7 +4598,7 @@ gtnh.quest1148.desc=The next tier of machine hull needs aluminium. You're gonna 
 
 # Quest.1149 - §5§lA New Alloy - Magnalium
 gtnh.quest1149.name=§5§lA New Alloy - Magnalium
-gtnh.quest1149.desc=Wondering why you need magnalium now? It's not for GT machines but for a material update for your crossbow.%n%nGo to the Twilight Forest and find an Olivine/Glauconite vein located at Y 10-40 or in the Overworld a Glauconite Soapstone mix located at Y 20-50 and a Granitic Mineral Vein in the Overworld Located at Y 50-60 (The Gypsum vein you will need for the Bricked Blast Furnace).%n%nWith your Ore Washer you can get Magnesium and Aluminium out of the Ores (Magnesite for Magnesium (marble can be used too) and Fullers Earth for Aluminium) and combine it in the Alloy smelter to get Magnalium.%n%nMagnesite gives 10 tiny piles of Magnesium each dust but fullers earth gives only a tiny pile of Aluminium.
+gtnh.quest1149.desc=Wondering why you need magnalium now? It's not for GT machines but for a material update for your crossbow.%n%nGo to the Twilight Forest and find an Olivine/Glauconite vein located at Y 10-40 or in the Overworld a Glauconite Soapstone mix located at Y 20-50 and a Granitic Mineral Vein in the Overworld Located at Y 50-60 (The Gypsum vein you will need for the Bricked Blast Furnace).%n%nWith your Ore Washer you can also get Magnesium out of ores like Magnesite.%n%nYou already made some Aluminium dust before. It will get easier once you have an EBF or an MV electrolyzer.%n%nCombine both in your alloy smelter to get magnalium.
 
 # Quest.1150 - §5§lMagnalium Crossbow
 gtnh.quest1150.name=§5§lMagnalium Crossbow
@@ -5642,7 +5642,7 @@ gtnh.quest1409.desc=How about lossless 8192 EU Wires? Vanadiumtriindinide is a s
 
 # Quest.1410 - §b§lIV Mixer
 gtnh.quest1410.name=§b§lIV Mixer
-gtnh.quest1410.desc=An IV mixer is required for example to mix HSS-S dust or to make IV superconductors.
+gtnh.quest1410.desc=An IV mixer is required for example to mix HSS-S dust or to make IV superconductors.%n%nYou can also check out the GT++ tab and make a multiblock mixer out of this one.
 
 # Quest.1411 - §9§lSome Rare High Tier Metals
 gtnh.quest1411.name=§9§lSome Rare High Tier Metals
@@ -5968,9 +5968,9 @@ gtnh.quest1490.desc=Some machines need emitters and sensors, like the analyzer o
 gtnh.quest1491.name=§b§lHSS-G
 gtnh.quest1491.desc=After you can make Tungstensteel and craft an IV assembler, upgrade your Electric Blast Furnace with new Coils out of HSS-G Ingots. This ingot becomes very important in LuV tier.
 
-# Quest.1492 - §c§l[OUTDATED]§r Plunger 2.0 The Hand Pump Replacement
-gtnh.quest1492.name=§c§l[OUTDATED]§r Plunger 2.0 The Hand Pump Replacement
-gtnh.quest1492.desc=What? Lost your hand pump already? Well here's a replacement. Well sure, it costs a few coins too, don't be such a fumble fingers next time! What do you think I am, a hardware store?
+# Quest.1492 - §6§lTrichlorosilane - continued
+gtnh.quest1492.name=§6§lTrichlorosilane - continued
+gtnh.quest1492.desc=Keep the hydrogen and continue in a second chemical reactor to obtain the purified Solar Grade Silicon. You get all the Hydrochloric Acid back!%n%nMaybe you can automate this process?
 
 # Quest.1493 - §c§lTier 6 (LuV)
 gtnh.quest1493.name=§c§lTier 6 (LuV)
@@ -6196,9 +6196,9 @@ gtnh.quest1547.desc=With the MV forming press you can make aluminum iron plates 
 gtnh.quest1548.name=Input chest for Ghetto ME System
 gtnh.quest1548.desc=To be able to put items into the Ghetto ME system you need just a few additional pipes.%nThe Extraction pipe should be connected to the chest you want to take items from.%nInside the Extraction pipe you need to put the Item Extraction chip, and configure it to blacklist if you want it to take all items from the chest.%n%nThe Routed Junction pipe is needed so the items inside the pipes know which direction to take, without this they will just fly around inside the pipes without knowing where to go.%nYou might also need some additional item transport pipes depending on your setup.
 
-# Quest.1549 - §c§l[OUTDATED]§r  Plunger 2.0 The Hand Pump
-gtnh.quest1549.name=§c§l[OUTDATED]§r  Plunger 2.0 The Hand Pump
-gtnh.quest1549.desc=The new hand pump can remove fluids out of your machine input slots. The old plunger removes the fluid - only the hand pump can store it and drain it to a tank.%n%nUse your items in an LV assembler to craft your pump token, and then again to make the hand pump.%n%nWhen you tier up your assembler, you can make better hand pumps, up to EV.%n%n§3This recipe requires Aluminium, which requires the EBF to make. But you can also find it in chests if you search around.
+# Quest.1549 - §6§lTrichlorosilane
+gtnh.quest1549.name=§6§lTrichlorosilane
+gtnh.quest1549.desc=The second route is probably even better! With just 2 singleblock chemical reactors you can make Silicon Solar Grade. In the first step, make some Trichlorosilane. 
 
 # Quest.1550 - More Seed Types
 gtnh.quest1550.name=More Seed Types
@@ -7152,9 +7152,9 @@ gtnh.quest1786.desc=Your shoes can be equipped with a few modifications like wat
 gtnh.quest1787.name=§6§lData Access Hatches
 gtnh.quest1787.desc=So, if you want to do more than one recipe in your Assline, you want a Data Access Hatch. There are 3+1 versions.%n%nData Access Hatch: It holds 4 data sticks, so 4 recipes.%n%nAdvanced Data Access Hatch: It holds 16 data sticks. Ironically, you can make this right away.%n%nAutomatable Data Access Hatch: It's UV, but it allows I/O of the sticks. Skip it.%n%nThe Data Bank Multi: Can be connected to multiple Asslines, and can contain more than 1 DAH. This is the best way, when you can do it. Look in ZPM for the quest.%n%n§3You only need to make one.
 
-# Quest.1788 - §c§l[OUTDATED]§r Trigger:Unlocking bee breeding lines (unlock)
-gtnh.quest1788.name=§c§l[OUTDATED]§r Trigger:Unlocking bee breeding lines (unlock)
-gtnh.quest1788.desc=Finish cultivated bees quest
+# Quest.1788 - §6§lSilicon Solar Grade
+gtnh.quest1788.name=§6§lSilicon Solar Grade
+gtnh.quest1788.desc=Whichever path you followed, you now have the Solar Grade Silicon Dust. You want to smelt it into ingots to make plates for Transistors, but you will also need some to make Silicon Boules.
 
 # Quest.1789 - §3§lFactory Iron Door
 gtnh.quest1789.name=§3§lFactory Iron Door
@@ -9446,7 +9446,7 @@ gtnh.quest2360.desc=A Fire-oriented biome with huge mountains and a large amount
 
 # Quest.2361 - Ghost Amulet
 gtnh.quest2361.name=Ghost Amulet
-gtnh.quest2361.desc=The Ghost Amulet (Impure) is an item that can only be obtained by throwing one Emerald, one String and one End Powder into Ender Goo.%n%nOnce you have that, you need to do a TC infusion.%n%nAs long as it stays anywhere in the inventory, it protects players from Forest Ghosts, and thus provides a way of acquiring Ectoplasm.
+gtnh.quest2361.desc=The Ghost Amulet (Impure) is an item that can only be obtained by throwing one Emerald, one String and one End Powder into Ender Goo.%n%nOnce you have that, you need to do a TC infusion, or maybe the Ender Compendium has a more traditional way to infuse it.%n%nAs long as it stays anywhere in the inventory, it protects players from Forest Ghosts, and thus provides a way of acquiring Ectoplasm.
 
 # Quest.2362 - Blank Gem
 gtnh.quest2362.name=Blank Gem
@@ -11062,7 +11062,7 @@ gtnh.quest2764.desc=It's a larger version of the steam macerator. It only works 
 
 # Quest.2765 - §6§lTFFT
 gtnh.quest2765.name=§6§lTFFT
-gtnh.quest2765.desc=The TFFT is very useful if you don't want to have a bunch of Super Tanks with overflow covers on buffer ULV Tanks.%n%nWith the tier I storage field block, it consumes 31.5 EU/t but only has about 0.315x the storage capacity of a ST I per fluid.%n%nWith the tier V storage field block it consumes 504 EU/t and has about 1.26x the storage capacity of a QT III per fluid.%n%nYou can use the multi hatch to access all the fluids at once with an ME Fluid Storage Bus or Fluid Ender Conduit.%n%nYou need 63 of any tier of storage field block, you can mix them too.%n%n§3Remember to turn auto-voiding on.
+gtnh.quest2765.desc=The TFFT is very useful if you don't want to have a bunch of Super Tanks with overflow covers on buffer ULV Tanks.%n%nWith the tier I storage field block, it consumes 31.5 EU/t but only has about 0.315x the storage capacity of a ST I per fluid.%n%nWith the tier V storage field block it consumes 504 EU/t and has about 1.26x the storage capacity of a QT III per fluid.%n%nYou can use the multi hatch to access all the fluids at once with an ME Fluid Storage Bus or Fluid Ender Conduit.%n%nYou need 63 of any tier of storage field block, you can mix them too.%n%n§3Remember to turn auto-voiding on.%n%n§4The TFFT was reworked apparently, so this quest might or might not be accurate.
 
 # Quest.2766 - Deep Earth Heating Pump
 gtnh.quest2766.name=Deep Earth Heating Pump
@@ -12850,11 +12850,11 @@ gtnh.quest3211.desc=Silicon is needed in all boule (and thus wafers, chips, and 
 
 # Quest.3212 - §6§lSilicon Tetrachloride
 gtnh.quest3212.name=§6§lSilicon Tetrachloride
-gtnh.quest3212.desc=However, the raw silicon dust you obtained is not pure enough! We will need to work on that. Don't worry, this is just a simple two step process. First let us start by reacting it with some chlorine in a chemical reactor.
+gtnh.quest3212.desc=However, the raw silicon dust you obtained is not pure enough! We will need to work on that. There are two reasonable options to do so. Let us look at the first one here. Don't worry, this is just a simple two step process. First let us start by reacting it with some chlorine in a chemical reactor.
 
-# Quest.3213 - §6§lSilicon Solar Grade
-gtnh.quest3213.name=§6§lSilicon Solar Grade
-gtnh.quest3213.desc=As a second step, we combine the Tetrachloride with Sodium Dust. There we go! The Silicon Dust is now purified to solar grade!%n%nThe Chlorine and Sodium are §onot§r lost during this process. To recover them, just electrolyze the Salt you get at the end and send it back to the Chemical Reactors, for a complete loop that turns Raw Silicon into Poly SI Silicon.
+# Quest.3213 - §6§lSilicon Tetrachloride - continued
+gtnh.quest3213.name=§6§lSilicon Tetrachloride - continued
+gtnh.quest3213.desc=As a second step, we combine the Tetrachloride with Sodium Dust. There we go! The Silicon Dust is now purified to solar grade!%n%nThe Chlorine and Sodium are §onot§r lost during this process. To recover them, just electrolyze the Salt you get at the end and send it back to the Chemical Reactors, for a complete loop that turns Raw Silicon into Solar Grade Silicon.
 
 # Quest.3214 - §6§lSalty from all the silicon?
 gtnh.quest3214.name=§6§lSalty from all the silicon?
@@ -13087,6 +13087,10 @@ gtnh.quest3270.desc=...there is no way a bee should be able to produce mana. The
 # Quest.3271 - Dreams of Gold
 gtnh.quest3271.name=Dreams of Gold
 gtnh.quest3271.desc=Just try to dream of gold.
+
+# Quest.3272 - Ignore the Glint in Their Eyes
+gtnh.quest3272.name=Ignore the Glint in Their Eyes
+gtnh.quest3272.desc=Well this is a bad idea, but since when has that stopped you before, golems with brains, what could go wrong?%n%n§2§b§3You only need to complete one task.
 
 ##################################Line##################################
 
